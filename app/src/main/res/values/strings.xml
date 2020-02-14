@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ADPractica</string>
+    <string name="arrancar">Arrancar</string>
+    <string name="pantalla_principal">Pantalla Principal</string>
+    <string name="btnarrancar">arrancar</string>
+    <string name="buscar_dispositivos">\@string</string>
+</resources>
